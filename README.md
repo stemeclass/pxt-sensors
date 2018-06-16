@@ -1,6 +1,6 @@
 # sensors
 
-這是專為micro:bit提供的感應器積木
+ultrasonic, DHT11, 
 
 ## License
 
